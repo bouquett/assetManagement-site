@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="资产账本">
+  <rect width="128" height="128" rx="24" fill="#102027"/>
+  <path d="M32 88V42c0-7 5-12 12-12h40c7 0 12 5 12 12v46c0 7-5 12-12 12H44c-7 0-12-5-12-12Z" fill="#f4f7f9"/>
+  <path d="M44 53h40M44 67h40M44 81h22" stroke="#102027" stroke-width="8" stroke-linecap="round"/>
+  <path d="M77 82c12 0 21-9 21-21s-9-21-21-21-21 9-21 21 9 21 21 21Z" fill="#247f5b"/>
+  <path d="M68 61h18M77 52v18" stroke="#f4f7f9" stroke-width="7" stroke-linecap="round"/>
+</svg>
